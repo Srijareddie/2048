@@ -11,7 +11,7 @@ Steps Followed:
     - docker build -t 2048-game .
     - docker images
 3.	Create Docker Container
-docker run -d -p 80:80 IMAGE
+    - docker run -d -p 80:80 IMAGE_ID
 4. Deploy containerized Docker game on AWS cloud
 
 
